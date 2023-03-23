@@ -2,7 +2,11 @@ import React from 'react'
 
 const Job = () => {
   return (
-    <div>Job</div>
+    <div>
+      <div className="jobContainer">
+        
+      </div>
+    </div>
   )
 }
 
