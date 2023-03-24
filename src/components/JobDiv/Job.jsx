@@ -1,4 +1,5 @@
 import React from 'react'
+import { BiTimeFive } from 'react-icons/bi'
 
 const Job = () => {
   return (
@@ -8,6 +9,9 @@ const Job = () => {
 
           <span className='flex justify-between items-center gap-4'>
             <h1 className="text-[16px] font-semibold text-textColor group-hover:text-white">Web Developer</h1>
+            <span>
+              <BiTimeFive/>
+            </span>
 
           </span>
 
