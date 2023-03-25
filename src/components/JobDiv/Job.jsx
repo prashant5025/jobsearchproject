@@ -3,6 +3,15 @@ import { BiTimeFive } from "react-icons/bi";
 
 // Importing the images from the assets folder
 import logo1 from "../../assets/instagram.png";
+import logo2 from "../../assets/instaply.png";
+import logo3 from "../../assets/meiliSearch.png";
+import logo4 from "../../assets/Quria.png";
+import logo5 from "../../assets/SquareSpace.png";
+import logo6 from "../../assets/nasa.png";
+import logo7 from "../../assets/paypal.png";
+import logo8 from "../../assets/twitter.png";
+import logo9 from "../../assets/spacex.png";
+
 
 const Data = [
   {
@@ -15,85 +24,85 @@ const Data = [
     logo: logo1,
   },
   {
-    id: 1,
-    title: "Web Developer",
-    location: "Canada",
+    id: 2,
+    title: "Android Developer",
+    location: "USA",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio eligendi voluptas, perferendis magni vitae impedit.",
-    company: "Instagram",
-    logo: logo1,
+    company: "instaply",
+    logo: logo2,
   },
   {
-    id: 1,
+    id: 3,
     title: "Web Developer",
-    location: "Canada",
+    location: "Brazil",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio eligendi voluptas, perferendis magni vitae impedit.",
-    company: "Instagram",
-    logo: logo1,
+    company: "meiliSearch",
+    logo: logo3,
   },
   {
-    id: 1,
-    title: "Web Developer",
-    location: "Canada",
+    id: 4,
+    title: "Senior Web Developer",
+    location: "India",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio eligendi voluptas, perferendis magni vitae impedit.",
-    company: "Instagram",
-    logo: logo1,
+    company: "Quria",
+    logo: logo4,
   },
   {
-    id: 1,
-    title: "Web Developer",
-    location: "Canada",
+    id: 5,
+    title: "Data Scientist",
+    location: "New Zealand",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio eligendi voluptas, perferendis magni vitae impedit.",
-    company: "Instagram",
-    logo: logo1,
+    company: "SquareSpace",
+    logo: logo5,
   },
   {
-    id: 1,
-    title: "Web Developer",
-    location: "Canada",
+    id: 6,
+    title: "Head of Marketing",
+    location: "Australia",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio eligendi voluptas, perferendis magni vitae impedit.",
-    company: "Instagram",
-    logo: logo1,
+    company: "Nasa",
+    logo: logo6,
   },
   {
-    id: 1,
-    title: "Web Developer",
-    location: "Canada",
+    id: 7,
+    title: "React Developer",
+    location: "Spain",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio eligendi voluptas, perferendis magni vitae impedit.",
-    company: "Instagram",
-    logo: logo1,
+    company: "Paypal",
+    logo: logo7,
   },
   {
-    id: 1,
-    title: "Web Developer",
-    location: "Canada",
+    id: 8,
+    title: "Machine Learning Engineer",
+    location: "UK",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio eligendi voluptas, perferendis magni vitae impedit.",
-    company: "Instagram",
-    logo: logo1,
+    company: "Twitter",
+    logo: logo8,
   },
   {
-    id: 1,
+    id: 9,
     title: "Web Developer",
-    location: "Canada",
+    location: "Toronto",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio eligendi voluptas, perferendis magni vitae impedit.",
-    company: "Instagram",
-    logo: logo1,
+    company: "SpaceX",
+    logo: logo9,
   },
   {
-    id: 1,
-    title: "Web Developer",
-    location: "Canada",
+    id: 10,
+    title: "Junior Web Developer",
+    location: "New york",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio eligendi voluptas, perferendis magni vitae impedit.",
-    company: "Instagram",
-    logo: logo1,
+    company: "Paypal",
+    logo: logo7,
   },
   
 ];
